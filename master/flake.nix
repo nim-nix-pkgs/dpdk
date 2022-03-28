@@ -11,7 +11,6 @@
   inputs.src-dpdk-master.ref   = "refs/heads/master";
   inputs.src-dpdk-master.owner = "nimscale";
   inputs.src-dpdk-master.repo  = "dpdk";
-  inputs.src-dpdk-master.dir   = "";
   inputs.src-dpdk-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
