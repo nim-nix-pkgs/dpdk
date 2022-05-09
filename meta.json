@@ -7,7 +7,7 @@
   "license": "Apache License 2.0",
   "web": "http://dpdk.org/",
   "refs": [
-    "fatal: unable to access 'https://github.com/nimscale/dpdk/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/nimscale/dpdk/': Failed to connect to github.com port 443 after 150100 ms: Network is unreachable",
     ""
   ],
   "heads": []
